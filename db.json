@@ -1,0 +1,79 @@
+{
+  "profesores": [
+    {
+      "nombre": "sergie",
+      "apellido": "code",
+      "materias": [
+        {
+          "nombre": "NodeJS desde cero"
+        },
+        {
+          "nombre": "ReactJS desde cero"
+        },
+        {
+          "nombre": "javacript desde cero"
+        }
+      ],
+      "id": "afce"
+    },
+    {
+      "id": "34ad"
+    },
+    {
+      "id": "0446",
+      "nombre": "camila",
+      "apellido": "dev",
+      "materias": [
+        {
+          "nombre": "quimica "
+        },
+        {
+          "nombre": "aeronautica"
+        }
+      ]
+    }
+  ],
+  "alumno": [
+    {
+      "nombre": "matiu",
+      "apellido": "meneses",
+      "promedio": 8.2,
+      "id": "9e21"
+    },
+    {
+      "nombre": "mortisio",
+      "apellido": "storni",
+      "promedio": 10,
+      "id": "d0d8"
+    },
+    {
+      "id": "49b5"
+    },
+    {
+      "id": "d87d",
+      "nombre": "george",
+      "apellido": "orwell",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Nodejs desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "d28c"
+    },
+    {
+      "nombre": "javacript desde cero",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "6c20"
+    },
+    {
+      "nombre": "ReactJS desde cero",
+      "duracion": 7,
+      "dificultad": "alta",
+      "id": "4bc6"
+    }
+  ]
+}
